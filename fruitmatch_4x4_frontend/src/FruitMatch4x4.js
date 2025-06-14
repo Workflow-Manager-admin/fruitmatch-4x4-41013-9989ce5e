@@ -1,6 +1,9 @@
 import React, { useEffect, useState } from "react";
 import "./FruitMatch4x4.css";
 
+// No usage of PUBLIC_URL in this file
+
+
 // PUBLIC_INTERFACE
 /**
  * FruitMatch4x4

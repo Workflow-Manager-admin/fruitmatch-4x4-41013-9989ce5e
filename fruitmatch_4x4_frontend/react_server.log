@@ -7,35 +7,50 @@
 <i> [webpack-dev-server] On Your Network (IPv4): http://172.17.0.2:3000/
 <i> [webpack-dev-server] Content not from webpack is served from './public' directory
 Injecting EditorRootWrapper import: ../.ve/EditorRootWrapper
-asset bundle.js 1.39 MiB [emitted] (name: main)
+asset bundle.js 1.41 MiB [emitted] (name: main)
 asset index.html 1.92 KiB [emitted]
 runtime modules 27.5 KiB 14 modules
 modules by path ./node_modules/ 1.24 MiB 31 modules
-modules by path ./src/ 10.3 KiB
-  modules by path ./src/*.css 7.49 KiB 4 modules
-  modules by path ./src/*.js 2.76 KiB
+modules by path ./src/ 23.4 KiB
+  modules by path ./src/*.css 14.7 KiB 6 modules
+  modules by path ./src/*.js 8.75 KiB
     ./src/index.js 530 bytes [built] [code generated]
-    ./src/App.js 2.25 KiB [built] [code generated]
+    + 2 modules
 modules by path ./.ve/ 15.1 KiB
   modules by path ./.ve/*.js 10.6 KiB 2 modules
   modules by path ./.ve/*.css 2.93 KiB
     ./.ve/EditorOverlay.css 2.25 KiB [built] [code generated]
     ./node_modules/css-loader/dist/cjs.js!./.ve/EditorOverlay.css 697 bytes [built] [code generated]
   ./.ve/EditorOverlay.jsx 1.58 KiB [built] [code generated]
-webpack 5.99.9 compiled successfully in 1469 ms
+webpack 5.99.9 compiled successfully in 1573 ms
 assets by status 1.92 KiB [cached] 1 asset
-assets by path *.js 1.44 MiB
+assets by path *.js 1.42 MiB
   asset bundle.js 1.41 MiB [emitted] (name: main)
-  asset main.8076ec2dde5643a73fce.hot-update.js 27.4 KiB [emitted] [immutable] [hmr] (name: main)
-asset main.8076ec2dde5643a73fce.hot-update.json 28 bytes [emitted] [immutable] [hmr]
-Entrypoint main 1.44 MiB = bundle.js 1.41 MiB main.8076ec2dde5643a73fce.hot-update.js 27.4 KiB
-cached modules 1.26 MiB [cached] 41 modules
+  asset main.900f233a5a7c357f9970.hot-update.js 4.53 KiB [emitted] [immutable] [hmr] (name: main)
+asset main.900f233a5a7c357f9970.hot-update.json 28 bytes [emitted] [immutable] [hmr]
+Entrypoint main 1.42 MiB = bundle.js 1.41 MiB main.900f233a5a7c357f9970.hot-update.js 4.53 KiB
+cached modules 1.28 MiB [cached] 44 modules
 runtime modules 27.5 KiB 14 modules
-javascript modules 15.4 KiB
-  modules by path ./src/*.js 8.24 KiB
-    ./src/App.js 1.91 KiB [built] [code generated]
-    ./src/FruitMatch4x4.js 6.33 KiB [built] [code generated]
-  modules by path ./src/*.css 7.17 KiB
-    ./src/FruitMatch4x4.css 2.25 KiB [built] [code generated]
-    ./node_modules/css-loader/dist/cjs.js!./src/FruitMatch4x4.css 4.92 KiB [built] [code generated]
-webpack 5.99.9 compiled successfully in 175 ms
+./src/App.js 1.98 KiB [built] [code generated]
+webpack 5.99.9 compiled successfully in 131 ms
+assets by status 1.92 KiB [cached] 1 asset
+assets by path *.js 1.42 MiB
+  asset bundle.js 1.41 MiB [emitted] (name: main)
+  asset main.a95db8e9855c65c70447.hot-update.js 9.51 KiB [emitted] [immutable] [hmr] (name: main)
+asset main.a95db8e9855c65c70447.hot-update.json 28 bytes [emitted] [immutable] [hmr]
+Entrypoint main 1.42 MiB = bundle.js 1.41 MiB main.a95db8e9855c65c70447.hot-update.js 9.51 KiB
+cached modules 1.27 MiB [cached] 44 modules
+runtime modules 27.5 KiB 14 modules
+./src/FruitMatch4x4.js 6.37 KiB [built] [code generated]
+webpack 5.99.9 compiled successfully in 89 ms
+Injecting EditorRootWrapper import: ../.ve/EditorRootWrapper
+assets by status 1.92 KiB [cached] 1 asset
+assets by path *.js 1.42 MiB
+  asset bundle.js 1.41 MiB [emitted] (name: main)
+  asset main.30dbfef31d66371c344a.hot-update.js 2.8 KiB [emitted] [immutable] [hmr] (name: main)
+asset main.30dbfef31d66371c344a.hot-update.json 28 bytes [emitted] [immutable] [hmr]
+Entrypoint main 1.42 MiB = bundle.js 1.41 MiB main.30dbfef31d66371c344a.hot-update.js 2.8 KiB
+cached modules 1.28 MiB [cached] 44 modules
+runtime modules 27.5 KiB 14 modules
+./src/index.js 572 bytes [built] [code generated]
+webpack 5.99.9 compiled successfully in 39 ms

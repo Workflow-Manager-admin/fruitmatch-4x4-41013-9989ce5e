@@ -2,6 +2,8 @@ import React from 'react';
 import './App.css';
 import FruitMatch4x4 from './FruitMatch4x4';
 
+// No direct usage of PUBLIC_URL found, no changes necessary here
+
 function App() {
   return (
     <div className="app" style={{ minHeight: "100vh", background: "#f8faf7" }}>
